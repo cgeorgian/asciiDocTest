@@ -1,0 +1,17 @@
+# asciiDocTest
+
+Test
+-----
+some text here
+
+.Paragraph
+
+
+.Optional Title
+
+  Sample Paragraph
+  this is some _italic_ some *bold*
+
+Block image
+
+image::diagram.png
